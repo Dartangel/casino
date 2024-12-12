@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/Dartangel/casino/static/js/main.868a9706.js",
-    "static/js/57.f3e186c8.js": "/Dartangel/casino/static/js/57.f3e186c8.js",
-    "favicon.ico": "/Dartangel/casino/favicon.ico",
-    "index.html": "/Dartangel/casino/index.html",
-    "favicon-32.png": "/Dartangel/casino/favicon-32.png",
-    "favicon-16.png": "/Dartangel/casino/favicon-16.png",
-    "serve.json": "/Dartangel/casino/serve.json",
-    "manifest.json": "/Dartangel/casino/manifest.json",
-    "main.868a9706.js.map": "/Dartangel/casino/static/js/main.868a9706.js.map",
-    "57.f3e186c8.js.map": "/Dartangel/casino/static/js/57.f3e186c8.js.map"
+    "main.js": "/casino/static/js/main.868a9706.js",
+    "static/js/57.f3e186c8.js": "/casino/static/js/57.f3e186c8.js",
+    "favicon.ico": "/casino/favicon.ico",
+    "index.html": "/casino/index.html",
+    "favicon-32.png": "/casino/favicon-32.png",
+    "favicon-16.png": "/casino/favicon-16.png",
+    "serve.json": "/casino/serve.json",
+    "manifest.json": "/casino/manifest.json",
+    "main.868a9706.js.map": "/casino/static/js/main.868a9706.js.map",
+    "57.f3e186c8.js.map": "/casino/static/js/57.f3e186c8.js.map"
   },
   "entrypoints": [
     "static/js/57.f3e186c8.js",
