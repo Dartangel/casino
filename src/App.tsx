@@ -1,8 +1,7 @@
-import React from 'react';
 import { StyleSheet, View } from 'react-native';
 import { WebView } from 'react-native-webview';
 
-const App: React.FC = () => {
+const App = () => {
   return (
     <View style={styles.container}>
       <WebView 
